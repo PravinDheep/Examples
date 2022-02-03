@@ -2,7 +2,7 @@ package com.javasevenfeatures;
 
 public class StringInSwitch {
 
-	
+	//Java 7 features
 	
 	public static void main(String[] args) {
 		String param = "java6";	
